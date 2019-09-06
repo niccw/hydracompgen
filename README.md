@@ -38,7 +38,7 @@ Files:
 
 ## Protein sequence from raw reads
 
-### Assembly transcriptome using Trinity
+### Assemble transcriptome using Trinity
 
 Optimise the memory and cpu usage base on your working condition.
 
