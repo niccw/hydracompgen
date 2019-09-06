@@ -1,4 +1,4 @@
-# Pipeline for Hydra comparative genomics analysis
+# Pipeline for Hydra comparative genomic analysis
 
 ## Before start
 
