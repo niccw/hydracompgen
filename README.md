@@ -2,6 +2,8 @@
 
 ## Before start
 
+Download and open the README.md to view the hyperlink to programmes and files.
+
 Install programmes used in the pipeline:
 
 - [Trinity](!https://github.com/trinityrnaseq/trinityrnaseq/wiki)
@@ -181,17 +183,4 @@ cp <species>_families.sum r_plots
 cp <path>/hydra_orthofinder/Statistics_PerSpecies_perc.csv r_plots
 # plot using orthofinder_plot.R
 ```
-
-## Remark
-mahMbh.pl
-
-combMbh.pl
-
-runMuscleFT.pl
-
-concatAlignments.pl
-
-dnaPipeTESum.pl
-
-parse_blast_output.py
 
