@@ -2,39 +2,37 @@
 
 ## Before start
 
-Download and open the README.md to view the hyperlink to programmes and files.
-
 Install programmes used in the pipeline:
 
-- [Trinity](!https://github.com/trinityrnaseq/trinityrnaseq/wiki)
+- [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki)
 
-- [cd-hit](!http://cd-hit.org/)
+- [cd-hit](http://cd-hit.org/)
 
-- [TransDecoder](!https://github.com/TransDecoder/TransDecoder/wiki)
+- [TransDecoder](https://github.com/TransDecoder/TransDecoder/wiki)
 
-- [blast+](!https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
+- [blast+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
 
-- [MUSCLE](!https://www.drive5.com/muscle/)
+- [MUSCLE](https://www.drive5.com/muscle/)
 
-- [gblocks](!http://molevol.cmima.csic.es/castresana/Gblocks.html)
+- [gblocks](http://molevol.cmima.csic.es/castresana/Gblocks.html)
 
-- [RaXML](!https://cme.h-its.org/exelixis/web/software/raxml/index.html)
+- [RaXML](https://cme.h-its.org/exelixis/web/software/raxml/index.html)
 
-- [FastTree](!http://www.microbesonline.org/fasttree/) : (optinal) much faster than RaXML and produce similar result in these dataset
+- [FastTree](http://www.microbesonline.org/fasttree/) : (optinal) much faster than RaXML and produce similar result in these dataset
 
-- [r8s](!http://ceiba.biosci.arizona.edu/r8s/index.html)
+- [r8s](http://ceiba.biosci.arizona.edu/r8s/index.html)
 
-- [OrthoFinder](!https://github.com/davidemms/OrthoFinder)
+- [OrthoFinder](https://github.com/davidemms/OrthoFinder)
 
-- [DIAMOND](!https://ab.inf.uni-tuebingen.de/software/diamond/) : protein aligner used OrthoFInder
+- [DIAMOND](https://ab.inf.uni-tuebingen.de/software/diamond/) : protein aligner used OrthoFInder
 
-- [dnaPipeTE](!https://github.com/clemgoub/dnaPipeTE)
+- [dnaPipeTE](https://github.com/clemgoub/dnaPipeTE)
 
-- [Gephi](!https://gephi.org/) : network visualisation
+- [Gephi](https://gephi.org/) : network visualisation
 
 Files:
 
-[hydra2.0_genemodels.aa](!https://research.nhgri.nih.gov/hydra/download/?dl=aa) : protein model from hydra genome 2.0 project
+[hydra2.0_genemodels.aa](https://research.nhgri.nih.gov/hydra/download/?dl=aa) : protein model from hydra genome 2.0 project
 
 
 
