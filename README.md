@@ -24,7 +24,7 @@ Install programmes used in the pipeline:
 
 - [OrthoFinder](https://github.com/davidemms/OrthoFinder)
 
-- [DIAMOND](https://ab.inf.uni-tuebingen.de/software/diamond/) : protein aligner used OrthoFInder
+- [DIAMOND](https://ab.inf.uni-tuebingen.de/software/diamond/) : protein aligner used by OrthoFInder
 
 - [dnaPipeTE](https://github.com/clemgoub/dnaPipeTE)
 
