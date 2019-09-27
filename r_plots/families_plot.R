@@ -5,7 +5,7 @@ library(magrittr)
 library(ggplot2)
 library(see)
 
-setwd("/Users/niccw/Desktop/vlogin3/hydra/greenBrown/May2019/families")
+setwd("<your_path>")
 
 # read in all families.sum
 for (f in list.files(pattern="*families.sum")){
