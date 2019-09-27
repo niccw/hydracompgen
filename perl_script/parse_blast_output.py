@@ -2,7 +2,6 @@
 
 import sys
 #path
-#/Users/niccw/Desktop/vlogin3/hydra/greenBrown/May2019/LINE_expansion/all_CR1_a2ablastn
 # Default 12 columns (Query Seq-id, Subject Seq-id, Percentage of identical matches, 
 # Alignment length, Number of mismatches, Number of gap openings, Start of alignment in query, 
 # End of alignment in query, Start of alignment in subject, End of alignment in subject, Expect value, Bit score)
