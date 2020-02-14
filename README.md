@@ -80,14 +80,14 @@ cd all_pep
 blastp -query <species>.pep -db /proj/Simakov/HYDRA/hydra2.0_genemodels.aa -outfmt 6 -evalue 1e-6 -num_threads 10  -out <species>.blastp
 
 # generate mbh for each species
-perl /proj/Simakov/scripts/CLUSTERING/mahMbh.pl <species>.blastp > <species>.mbh
+perl mahMbh.pl <species>.blastp > <species>.mbh
 
 # combine all mbh into one file
-perl /proj/Simakov/scripts/CLUSTERING/combMbh.pl <species1>.mbh <species2>.mbh <species3>.mbh <...> > all.mbh.clus
+perl combMbh.pl <species1>.mbh <species2>.mbh <species3>.mbh <...> > all.mbh.clus
 
 # align using MUSCLE and curate alignment using gblocks (using perl wrapper scripts)
-perl /proj/Simakov/scripts/runMuscleFT.pl
-perl /proj/Simakov/scripts/concatAlignments.pl aln-gb > concat.aln
+perl runMuscleFT.pl
+perl concatAlignments.pl aln-gb > concat.aln
 
 # build tree using RaXML
 raxmlHPC -m GTRGAMMA -s concat.aln -n concat.aln.tree -# 1000
